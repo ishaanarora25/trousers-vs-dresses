@@ -1,0 +1,3 @@
+Name: Ishaan Arora
+Amount of time: 15-20 hours
+Resources Consulted: Online resources like stackoverflow, geekforgeeks, and mostly the sklearn and numpy documentation
